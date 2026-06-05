@@ -21,6 +21,8 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 ### 👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://diamant-ai.com/rag-made-simple?code=RAGKING)
 
+📣 *Teach, write, or run a dev community? Earn 30% recommending RAG Made Simple to your audience: [become an affiliate](https://nirdiamant.gumroad.com/affiliates).*
+
 </div>
 
 > **22 hands-on tutorials** covering everything from basic prompt templates to advanced techniques like chain-of-thought, self-consistency, and tree-of-thought prompting.
