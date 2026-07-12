@@ -357,3 +357,5 @@ This project is licensed under a custom non-commercial license - see the [LICENS
 
 Keywords: Prompt Engineering, AI, Machine Learning, Natural Language Processing, LLM, Language Models, NLP, Conversational AI, Zero-Shot Learning, Few-Shot Learning, Chain of Thought
 
+![](https://europe-west1-prompt-eng-views-tracker.cloudfunctions.net/prompt-eng-tracker?notebook=main-readme)
+
